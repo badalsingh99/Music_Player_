@@ -37,7 +37,6 @@
     color: #333;
   }
   
-  /* Style for the song list */
   ul {
     list-style-type: none;
     padding: 0;
@@ -52,7 +51,7 @@
     cursor: pointer;
   }
   
-  /* Hover effect for song buttons */
+ 
   button:hover {
     background-color: #45a049;
   }
